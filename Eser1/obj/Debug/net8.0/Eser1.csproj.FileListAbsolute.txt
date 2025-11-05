@@ -1,0 +1,15 @@
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\obj\Debug\net8.0\Eser1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\obj\Debug\net8.0\Eser1.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\obj\Debug\net8.0\Eser1.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\obj\Debug\net8.0\Eser1.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\obj\Debug\net8.0\Eser1.sourcelink.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\bin\Debug\net8.0\Eser1.exe
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\bin\Debug\net8.0\Eser1.deps.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\bin\Debug\net8.0\Eser1.runtimeconfig.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\bin\Debug\net8.0\Eser1.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\bin\Debug\net8.0\Eser1.pdb
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\obj\Debug\net8.0\Eser1.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\obj\Debug\net8.0\refint\Eser1.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\obj\Debug\net8.0\Eser1.pdb
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\obj\Debug\net8.0\Eser1.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S1-L3\Eser1\obj\Debug\net8.0\ref\Eser1.dll
