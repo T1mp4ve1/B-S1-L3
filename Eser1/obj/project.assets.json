@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pavel\\Desktop\\Corsi\\S\\B-S1-L3\\Eser1\\Eser1.csproj",
-      "projectName": "Eser1",
-      "projectPath": "C:\\Users\\Pavel\\Desktop\\Corsi\\S\\B-S1-L3\\Eser1\\Eser1.csproj",
+      "projectUniqueName": "C:\\Users\\Pavel\\Desktop\\Corsi\\S\\B-S1-L3\\Eser1\\esercizio 1.csproj",
+      "projectName": "esercizio 1",
+      "projectPath": "C:\\Users\\Pavel\\Desktop\\Corsi\\S\\B-S1-L3\\Eser1\\esercizio 1.csproj",
       "packagesPath": "C:\\Users\\Pavel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pavel\\Desktop\\Corsi\\S\\B-S1-L3\\Eser1\\obj\\",
       "projectStyle": "PackageReference",
